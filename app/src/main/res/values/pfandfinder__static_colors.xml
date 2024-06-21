@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="nearest_store__open">#3CE141</color>
+    <color name="nearest_store__closed">#DE1C1C</color>
+    <color name="nearest_store__divider">#999999</color>
+</resources>
